@@ -4,7 +4,7 @@
 <div align="center">
 <a href="https://touhid552.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-touhid552.github.io-F5A524?style=for-the-badge&logo=vercel&logoColor=0E1420" alt="portfolio"/></a>
 <a href="mailto:hasan15-14552@diu.edu.bd"><img src="https://img.shields.io/badge/EMAIL-hasan15--14552%40diu.edu.bd-1A2333?style=for-the-badge&logo=gmail&logoColor=F5A524" alt="email"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-1A2333?style=for-the-badge&logo=linkedin&logoColor=6B8CAE" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/md-touhidul-hasan-2b506931a/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-1A2333?style=for-the-badge&logo=linkedin&logoColor=6B8CAE" alt="linkedin"/></a>
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20full--time%20roles-132018?style=for-the-badge&logo=checkmarx&logoColor=4ADE80" alt="open to work"/>
 </div>
 <br/>
@@ -12,7 +12,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=900&color=F5A524&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer+%7C+React+%2F+Node+%2F+PHP+%2F+MySQL;Building+responsive%2C+production-ready+web+applications;MSc+Software+Engineering+%40+Daffodil+International+University;Open+to+full-time+roles+%7C+Dhaka%2C+Bangladesh" alt="typing banner"/>
 </div>
 <br/>
-## `[ 01 ]` About
+About
  
 ```
 > role:    full-stack web developer
@@ -25,7 +25,7 @@
 I'm a Computer Science graduate from **Daffodil International University**, currently pursuing an MSc in Software Engineering. I build full-stack web applications — from responsive front-ends in React and vanilla JS to backend services in Node.js, Flask, and PHP, with MySQL for data and Docker/Nginx for deployment. I also work with machine learning (computer vision, NLP) when a project calls for it. Outside of building, I compete in programming contests (**ICPC, DIU**).
  
 <br/>
-## `[ 02 ]` Tech Stack
+Tech Stack
  
 <table>
 <tr>
@@ -52,7 +52,7 @@ I'm a Computer Science graduate from **Daffodil International University**, curr
 </tr>
 </table>
 <br/>
-## `[ 03 ]` Featured Web Projects
+Featured Web Projects
  
 <table>
 <tr>
@@ -121,25 +121,25 @@ Responsive clone of Facebook's landing page with close attention to layout and d
  
 </div>
 <br/>
-## `[ 04 ]` GitHub Stats
+GitHub Stats
  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=touhid552&show_icons=true&hide_border=true&bg_color=0E1420&title_color=F5A524&icon_color=F5A524&text_color=8D9AAE&border_radius=6" width="49%" alt="github stats"/>
+<img src="https://raw.githubusercontent.com/touhid552/touhid552/main/profile/stats.svg" width="49%" alt="github stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=touhid552&hide_border=true&background=0E1420&ring=F5A524&fire=F5A524&currStreakLabel=F5A524&sideLabels=8D9AAE&currStreakNum=EAEEF3&sideNums=EAEEF3&dates=8D9AAE&border_radius=6" width="49%" alt="streak stats"/>
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhid552&layout=compact&hide_border=true&bg_color=0E1420&title_color=F5A524&text_color=8D9AAE&border_radius=6" width="49%" alt="top languages"/>
+<img src="https://raw.githubusercontent.com/touhid552/touhid552/main/profile/top-langs.svg" width="49%" alt="top languages"/>
 </div>
 <br/>
-## `[ 05 ]` Honors &amp; Certifications
+Honors &amp; Certifications
  
 | # | Achievement | Category |
 |---|---|---|
 | 01 | Unlock The Algorithm | Programming Contest |
 | 02 | ICPC | Programming Contest |
 | 03 | DIU Intra University | Programming Contest |
-| 04 | System Developer — Crack Dataset (CD-2024) | Research |
-| 05 | Contest Organizer — Crack Dataset (CD-2024) | Research |
+| 04 | System Developer — Crack Dataset (CD-2023) | Programming Contest |
+| 05 | Contest Organizer — Crack Dataset (CD-2024) | Programming Contest |
  
 <br/>
 <div align="center">
