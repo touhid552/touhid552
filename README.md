@@ -30,11 +30,11 @@ Tech Stack
 <table>
 <tr>
 <td valign="top" width="50%">
-**Frontend**
+Frontend
  
 <img src="https://img.shields.io/badge/HTML5-0E1420?style=flat-square&logo=html5&logoColor=F5A524" alt="html5"/> <img src="https://img.shields.io/badge/CSS3-0E1420?style=flat-square&logo=css3&logoColor=F5A524" alt="css3"/> <img src="https://img.shields.io/badge/JavaScript-0E1420?style=flat-square&logo=javascript&logoColor=F5A524" alt="javascript"/> <img src="https://img.shields.io/badge/React.js-0E1420?style=flat-square&logo=react&logoColor=F5A524" alt="react"/> <img src="https://img.shields.io/badge/Tailwind_CSS-0E1420?style=flat-square&logo=tailwindcss&logoColor=F5A524" alt="tailwind"/> <img src="https://img.shields.io/badge/Figma-0E1420?style=flat-square&logo=figma&logoColor=F5A524" alt="figma"/>
  
-**Backend &amp; Databases**
+Backend &amp; Databases
  
 <img src="https://img.shields.io/badge/Node.js-0E1420?style=flat-square&logo=node.js&logoColor=6B8CAE" alt="node"/> <img src="https://img.shields.io/badge/PHP-0E1420?style=flat-square&logo=php&logoColor=6B8CAE" alt="php"/> <img src="https://img.shields.io/badge/Flask-0E1420?style=flat-square&logo=flask&logoColor=6B8CAE" alt="flask"/> <img src="https://img.shields.io/badge/MySQL-0E1420?style=flat-square&logo=mysql&logoColor=6B8CAE" alt="mysql"/>
  
@@ -57,7 +57,7 @@ Featured Web Projects
 <table>
 <tr>
 <td width="50%">
-**FixIt Now — Service Provider App**
+FixIt Now — Service Provider App
 <br/><sub>web app · booking platform</sub>
 <br/>
 Connects users with home maintenance providers (AC repair, electrical, plumbing). Full booking and provider management system.
@@ -66,7 +66,7 @@ Connects users with home maintenance providers (AC repair, electrical, plumbing)
  
 </td>
 <td width="50%">
-**Mess Meal Manager App**
+Mess Meal Manager App
 <br/><sub>web app · finance tool</sub>
 <br/>
 Manages meal expenses in shared living — balances, average meal rates, and contributions with PDF export.
@@ -77,7 +77,7 @@ Manages meal expenses in shared living — balances, average meal rates, and con
 </tr>
 <tr>
 <td width="50%">
-**Assignment Management System**
+Assignment Management System
 <br/><sub>web app · education</sub>
 <br/>
 Submit assignments, manage grades, and share learning resources between students and teachers.
@@ -86,7 +86,7 @@ Submit assignments, manage grades, and share learning resources between students
  
 </td>
 <td width="50%">
-**School Management System**
+School Management System
 <br/><sub>web app · dashboard</sub>
 <br/>
 Front-end dashboard for managing classes, student results, and school notices with a clean, intuitive interface.
@@ -97,7 +97,7 @@ Front-end dashboard for managing classes, student results, and school notices wi
 </tr>
 <tr>
 <td width="50%">
-**Tour Group BD Website**
+Tour Group BD Website
 <br/><sub>web app · travel</sub>
 <br/>
 Responsive travel website showcasing packages and handling bookings with a clean, modern interface.
@@ -106,7 +106,7 @@ Responsive travel website showcasing packages and handling bookings with a clean
  
 </td>
 <td width="50%">
-**Facebook Landing Page Clone**
+Facebook Landing Page Clone
 <br/><sub>web app · pixel-perfect UI</sub>
 <br/>
 Responsive clone of Facebook's landing page with close attention to layout and detail across devices.
