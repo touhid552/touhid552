@@ -121,16 +121,7 @@ Responsive clone of Facebook's landing page with close attention to layout and d
  
 </div>
 <br/>
-GitHub Stats
- 
-<div align="center">
-<img src="https://raw.githubusercontent.com/touhid552/touhid552/main/profile/stats.svg" width="49%" alt="github stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=touhid552&hide_border=true&background=0E1420&ring=F5A524&fire=F5A524&currStreakLabel=F5A524&sideLabels=8D9AAE&currStreakNum=EAEEF3&sideNums=EAEEF3&dates=8D9AAE&border_radius=6" width="49%" alt="streak stats"/>
-</div>
-<div align="center">
-<img src="https://raw.githubusercontent.com/touhid552/touhid552/main/profile/top-langs.svg" width="49%" alt="top languages"/>
-</div>
-<br/>
+
 Honors &amp; Certifications
  
 | # | Achievement | Category |
