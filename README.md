@@ -40,11 +40,11 @@ Backend &amp; Databases
  
 </td>
 <td valign="top" width="50%">
-**DevOps &amp; Tools**
+DevOps &amp; Tools
  
 <img src="https://img.shields.io/badge/Git-0E1420?style=flat-square&logo=git&logoColor=F5A524" alt="git"/> <img src="https://img.shields.io/badge/Docker-0E1420?style=flat-square&logo=docker&logoColor=F5A524" alt="docker"/> <img src="https://img.shields.io/badge/Nginx-0E1420?style=flat-square&logo=nginx&logoColor=F5A524" alt="nginx"/> <img src="https://img.shields.io/badge/Linux-0E1420?style=flat-square&logo=linux&logoColor=F5A524" alt="linux"/> <img src="https://img.shields.io/badge/VS_Code-0E1420?style=flat-square&logo=visualstudiocode&logoColor=F5A524" alt="vscode"/>
  
-**Also Working With**
+Also Working With
  
 <img src="https://img.shields.io/badge/Python-0E1420?style=flat-square&logo=python&logoColor=6B8CAE" alt="python"/> <img src="https://img.shields.io/badge/TensorFlow-0E1420?style=flat-square&logo=tensorflow&logoColor=6B8CAE" alt="tensorflow"/> <img src="https://img.shields.io/badge/Machine_Learning-0E1420?style=flat-square&logo=scikitlearn&logoColor=6B8CAE" alt="ml"/>
  
