@@ -117,7 +117,7 @@ Responsive clone of Facebook's landing page with close attention to layout and d
 </tr>
 </table>
 <div align="center">
-**[→ See these live + all projects on my portfolio](https://touhid552.github.io/portfolio/#projects)**
+
  
 </div>
 <br/>
